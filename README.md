@@ -4,4 +4,4 @@ Pomodoro Timer로 25분 공부, 5분 쉬는 시간을 Default로 하며 시간 �
 
 # Preview
 
-  ✔️ [Demo](http://about.phamvanlam.com/pomodoro-clock/)
+  ✔️ [Demo] ![screenshot](https://github.com/lsh3163/ReactTimer/blob/master/assets/screenshot.png)
